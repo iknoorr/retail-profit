@@ -1,5 +1,5 @@
-#Retail Profit Prediction Using Machine Learning
-##Project Overview
+# Retail Profit Prediction Using Machine Learning
+## Project Overview
 This project explores the application of machine learning to predict retail transaction-level profit using the Sample Superstore dataset.
 The objective is to understand how factors such as sales, discounts, product categories, quantities, and shipping characteristics relate to profitability.
 A Random Forest Regressor is trained on historical retail transaction data to estimate profit and identify important predictive features.
